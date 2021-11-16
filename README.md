@@ -8,7 +8,7 @@
  * Regla 2. Añadir el elemento body en el cual añadiremos el background con la siguiente [Imagen](https://www.wallpaperflare.com/anime-anime-grasoso-bloodborne-video-game-art-fantasy-city-wallpaper-cwerh/download/2160x1440)
  * Regla 3. En el elemento body vamos a tener que poner el background fijo para que la imagen no se mueva al desplazar el texto.
  * Regla 4. Los elementos de `h1` con color rgb(104, 9, 9)
- * Regla 5. Los elementos con clase `title` tendrán que estar en color `rgb(104, 9, 9)`.
+ * Regla 5. Los elementos con clase `title` tendrán que estar en color `rgb(104, 9, 9)` con tamaño 70px un borde de 5px `inset` en color `white` y margin - right 40%.
  * Regla 6. Los parrafos tienen que estar en color white en tamaño medium.
  * Regla 7. Los elementos del párrafo tienen que llevar esta fuente [Google Fonts](https://fonts.google.com/specimen/MedievalSharp?query=medieval)
  * Regla 8. Los elementos div tendrán una clase llamada all.
