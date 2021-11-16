@@ -14,7 +14,7 @@
  * Regla 8. Los elementos div tendrán una clase llamada all.
  * Regla 9. Dentro de la clase all vamos a poner un el borde `inset` con el color `rgb(104, 9, 9)` de `10px` con un margen de `5% 10%` y un fondo de color `black`.
  * Regla 10. En la etiqueta `h1` sin clase vamos a añadirle el color `rgb(104, 9, 9)`.
- * Regla 11. En las imagenes que hemos añadido vamos a ponerlo en tamaño `40%` con un borde tipo `inset` color `white`
+ * Regla 11. Las imagenes que hemos añadido las pondremos en tamaño `40%` con un borde tipo `inset` color `white`
  * Regla 12. En la clase de los párrafos añadimos la lista que hemos hecho para que se aplique el color `white`.
  * Regla 13. En la etiqueta ul abrimos un estilo en css para que estén del mismo color que los párrafos en la etiqueta p ponelos ,li.
  * Regla 14. En las eitquetas ul añadimos el siguiente estilo:
